@@ -1,0 +1,2 @@
+# Inherits from 00-framework/requirements.txt - installed separately.
+-r ../00-framework/requirements.txt

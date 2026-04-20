@@ -1,0 +1,6 @@
+theme: minima
+title: "Credit Cycle"
+description: "Private credit growth vs GDP trend as equity/credit signal"
+baseurl: "/04-credit-cycle"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

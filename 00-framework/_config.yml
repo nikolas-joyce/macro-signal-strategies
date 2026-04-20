@@ -1,0 +1,6 @@
+theme: minima
+title: "Macro Signal Framework"
+description: "Shared ALFRED + VectorBT + reporting utilities for macro signal strategies"
+baseurl: "/00-framework"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

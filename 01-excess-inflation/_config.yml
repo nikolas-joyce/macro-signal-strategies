@@ -1,0 +1,6 @@
+theme: minima
+title: "Excess Inflation Signal"
+description: "Systematic macro overlay using CPI vs. inflation target"
+baseurl: "/01-excess-inflation"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

@@ -1,0 +1,6 @@
+theme: minima
+title: "Investment Clock"
+description: "4-quadrant Growth x Inflation multi-asset rotation (capstone)"
+baseurl: "/08-investment-clock"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

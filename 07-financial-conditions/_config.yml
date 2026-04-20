@@ -1,0 +1,6 @@
+theme: minima
+title: "Financial Conditions"
+description: "NFCI level and change as equity beta overlay"
+baseurl: "/07-financial-conditions"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

@@ -1,0 +1,6 @@
+theme: minima
+title: "Real Yield"
+description: "5Y nominal minus 5Y breakeven as bond + FX signal"
+baseurl: "/03-real-yield"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

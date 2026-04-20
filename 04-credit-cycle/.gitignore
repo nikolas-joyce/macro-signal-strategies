@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/raw/*.parquet
+data/processed/*.parquet
+data/processed/*.pkl
+.env
+.DS_Store

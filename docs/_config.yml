@@ -1,0 +1,6 @@
+theme: minima
+title: "Macro Signal Strategies"
+description: "Open-source systematic macro trading research using ALFRED vintage data + VectorBT"
+baseurl: "/docs"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

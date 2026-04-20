@@ -1,0 +1,6 @@
+theme: minima
+title: "Yield Curve Slope"
+description: "10Y-2Y slope as duration + equity regime signal"
+baseurl: "/02-yield-curve"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

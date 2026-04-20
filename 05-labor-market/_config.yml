@@ -1,0 +1,6 @@
+theme: minima
+title: "Labor Market"
+description: "Payrolls vs labor force signal for equities + FX"
+baseurl: "/05-labor-market"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true

@@ -1,0 +1,6 @@
+theme: minima
+title: "Money Supply (Real M2)"
+description: "Real M2 growth as equity timing signal"
+baseurl: "/06-money-supply"
+url: "https://macro-signal-strategies.github.io"
+show_excerpts: true
